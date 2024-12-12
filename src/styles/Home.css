@@ -1,0 +1,9 @@
+@import '../index.css';
+
+.hero-img{
+    width: 35rem;
+    height:35rem;
+}
+.frame-104_h1{
+    font-family: 'Poppins', sans-serif;
+}
