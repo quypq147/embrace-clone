@@ -2,6 +2,8 @@ import Header from "./components/Header"
 import Home from "./Home"
 import { BrowserRouter } from "react-router-dom"
 import Partners from "./Partners"
+import Commitments from "./Commitments"
+import HowitsWork from "./HowItsWork"
 
 function App() {
 
@@ -10,6 +12,8 @@ function App() {
       <Header />
       <Home />
       <Partners/>
+      <Commitments/>
+      <HowitsWork/>
     </BrowserRouter>
   )
 }

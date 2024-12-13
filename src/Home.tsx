@@ -5,9 +5,9 @@ import { Button } from "./components/ui/button";
 export default function Home() {
   return (
     <section className="grid m-1 sm:flex sm:m-10">
-        <div className="hero-title">
+        <div className="hero-title grid justify-center items-center">
             <div className="frame-104">
-                <h1 className="text-8xl flex-wrap frame-104_h1">We Take Care Of Your Brand</h1>
+                <h1 className="text-8xl flex-wrap frame-104_h1 mx-10">We Take Care Of Your Brand</h1>
                 <p className="frame-104_p">We care about our work and we care about our clients</p>
             </div>
             <div className="frame-55 flex gap-5">
