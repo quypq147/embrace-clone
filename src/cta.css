@@ -1,0 +1,5 @@
+.cta_banner{
+    background-image: url(./assets/Banner/banner.svg);
+    background-size: cover;
+    background-position: no-repeat;
+}
