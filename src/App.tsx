@@ -9,6 +9,9 @@ import CTABanner from "./CTABanner"
 import OurTeam from "./OurTeam"
 import Testimonial from "./Testimonial"
 import CTABanner2 from "./CTABanner2"
+import Help from "./Help"
+import Bottom from "./Bottom"
+import Footer from "./Footer"
 
 function App() {
 
@@ -24,6 +27,9 @@ function App() {
       <OurTeam/>
       <Testimonial/>
       <CTABanner2/>
+      <Help/>
+      <Bottom/>
+      <Footer/>
     </BrowserRouter>
   )
 }
